@@ -1,0 +1,9 @@
+F:\T INFO 200\guessing number\guessing number\bin\Debug\guessing number.exe.config
+F:\T INFO 200\guessing number\guessing number\bin\Debug\guessing number.exe
+F:\T INFO 200\guessing number\guessing number\bin\Debug\guessing number.pdb
+F:\T INFO 200\guessing number\guessing number\obj\Debug\guessing number.csprojResolveAssemblyReference.cache
+F:\T INFO 200\guessing number\guessing number\obj\Debug\guessing_number.Form1.resources
+F:\T INFO 200\guessing number\guessing number\obj\Debug\guessing_number.Properties.Resources.resources
+F:\T INFO 200\guessing number\guessing number\obj\Debug\guessing number.csproj.GenerateResource.Cache
+F:\T INFO 200\guessing number\guessing number\obj\Debug\guessing number.exe
+F:\T INFO 200\guessing number\guessing number\obj\Debug\guessing number.pdb
